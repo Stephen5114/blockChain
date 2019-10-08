@@ -1,3 +1,4 @@
+文本预处理
 def cut_sentences(sentence):  
       puns = frozenset(u'.')   
        tmp = []    
